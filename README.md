@@ -51,8 +51,6 @@
     <li>The getter peer transitions to a sharer peer, providing the downloaded file as a torrent file in the network for other peers to access.</li>
   </ol>
 
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+ 
 </body>
 </html>
