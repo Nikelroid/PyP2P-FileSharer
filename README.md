@@ -1,9 +1,9 @@
 # PyP2P File Sharer
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Socket](https://img.shields.io/badge/Socket-TCP%2FIP-orange.svg)
-![Threading](https://img.shields.io/badge/Threading-Concurrency-green.svg)
-![JSON](https://img.shields.io/badge/JSON-Data%20Exchange-lightgrey.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket-TCP%2FIP-orange)
+![Threading](https://img.shields.io/badge/Threading-Concurrency-green)
+![JSON](https://img.shields.io/badge/JSON-Data_Exchange-lightgrey?logo=json&logoColor=white)
 
 
 ## Description
